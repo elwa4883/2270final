@@ -1,0 +1,3 @@
+/home/jovyan/new final project/build/CMakeFiles/run_app.dir
+/home/jovyan/new final project/build/CMakeFiles/edit_cache.dir
+/home/jovyan/new final project/build/CMakeFiles/rebuild_cache.dir

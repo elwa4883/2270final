@@ -1,0 +1,29 @@
+Order Number,Email,Subtotal,Shipping,Taxes,Shipping Method,Lineitem quantity,Lineitem name,Lineitem price,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping City,Shipping Zip,Shipping Province,Shipping Country
+1,abc@gmail.com,11,4.9,0,Economy,1,BUSHING REPLACEMENT KIT,11,Jon Doe,123 Nowhere St.,,,Highlands Ranch,80130,CO,US
+2,def@gmail.com,525,6.99,40.19,UPS® Ground,1,SHOCBOX Belt Drive - 50/60 - degree preload (160-200lbs),525,Jane Doe,123 Nowhere St.,,,Lakewood,80226,CO,US
+3,ghi@gmail.com,161,10.85,14.09,UPS® Ground,1,TRICK-STICK,161,Kim Smith,123 Nowhere St.,,,Westminster,92683,CA,US
+4,ghi@gmail.com,558,14.26,43.25,UPS® Ground,1,PIVOT AXLES - 50/60 - degree preload (160-200lbs),33,Kim Smith,123 Nowhere St.,,Suite B 92,Huntington Beach,92647,CA,US
+5,ghi@gmail.com,525,6.99,40.19,UPS® Ground,1,SHOCBOX Belt Drive - 30/40 - degree preload (80-120lbs),525,Kim Smith,123 Nowhere St.,,Suite B 92,Huntington Beach,92647,CA,US
+6,ghi@gmail.com,161,9.81,12.48,UPS® Ground Saver,1,TRICK-STICK,161,Kim Smith,123 Nowhere St.,,Suite B 92,Huntington Beach,92647,CA,US
+7,ruweea@hotmail.com,22,6.8,1.73,UPS® Ground Saver,1,TORSION SPRINGS,22,Elizabeth Walker,123 Nowhere St.,,,Highlands Ranch,80130,CO,US
+8,ruweea@hotmail.com,22,6.8,1.72,UPS® Ground Saver,1,WHEEL AXLE REPLACEMENT KIT,22,Elizabeth walker,123 Nowhere St.,,,Highlands Ranch,80130,CO,US
+9,jkl@gmail.com,847,16.49,80.47,UPS® Ground Saver,1,SHOCBOX Belt Drive - 60/70 - degree preload (180-220lbs),525,Bill Bo,123 Nowhere St.,,#KJ74461,Gardena,90248,CA,US
+10,mno@gmail.com,322,14.12,25.68,UPS® Ground,2,TRICK-STICK,161,Gina Go,123 Nowhere St.,,,Cincinnati,45023,OH,US
+11,pqr@gmail.com,322,14.12,25.68,UPS® Ground Saver,2,TRICK-STICK,161,Tim Jones,123 Nowhere St.,,,HUME,93628,CA,US
+12,stu@gmail.com,891,21.46,54.75,UPS® Ground,1,SHOCBOX Belt Drive - 60/70 - degree preload (180-220lbs),525,R Higgins,123 Nowhere St.,,,Dimondale,48821,MI,US
+13,stu@gmail.com,22,6.8,1.72,UPS® Ground,1,WHEEL AXLE REPLACEMENT KIT,22,R Higgins,123 Nowhere St.,,,Dimondale,48821,MI,US
+14,stu@gmail.com,22,6.8,1.73,UPS® Ground,1,TORSION SPRINGS,22,R Higgins,123 Nowhere St.,,,Dimondale,48821,MI,US
+15,stu@gmail.com,322,14.12,25.68,UPS® Ground,2,TRICK-STICK,161,R Higgins,123 Nowhere St.,,,Dimondale,48821,MI,US
+16,abc@gmail.com,11,6.8,1.17,UPS® Ground Saver,1,BUSHING REPLACEMENT KIT,11,Jon Doe,123 Nowhere St.,,,Highlands Ranch,'80130,CO,US
+17,vwx@gmail.com,686,18.04,0,UPS® Ground Saver,1,TRICK-STICK,161,Aiden Nichols,123 Nowhere St.,,,Eugene,'97404,OR,US
+18,zab@gmail.com,860.45,114.94,97.54,UPS Worldwide Expedited®,2,TRICK-STICK,163.74,Vaughn Miller,123 Nowhere St.,,,Iluka,'6028,WA,AU
+19,cde@gmail.com,322,14.26,24.96,UPS® Ground,2,TRICK-STICK,161,Victor Nzomo,123 Nowhere St.,,,Huntington Beach,'92647,CA,US
+20,cde@gmail.com,525,14.34,44.5,UPS® Ground Saver,1,SHOCBOX Belt Drive - 30/40 - degree preload (80-120lbs),525,Brandon Stiles,123 Nowhere St.,,,Austin,'78730,TX,US
+21,fge@gmail.com,525,15.66,43.26,UPS® Ground Saver,1,SHOCBOX Belt Drive - 60/70 - degree preload (180-220lbs),525,Myron Meyer,123 Nowhere St.,,,Fort Stewart,'31315,GA,US
+22,fge@gmail.com,1018,14.38,61.08,UPS® Ground Saver,1,SHOCBOX Belt Drive - 50/60 - degree preload (160-200lbs),525,Derick Petit-Blanc,123 Nowhere St.,,Apt 4,Rexburg,'83440,ID,US
+23,hij@gmail.com,1050,22.95,104.48,UPS® Ground Saver,1,SHOCBOX Belt Drive - 40/50 - degree preload (120-160lbs),525,Tucker Hyde,123 Nowhere St.,,,Winnfield,'71483,LA,US
+24,hij@gmail.com,1050,22.95,104.48,UPS® Ground Saver,1,SHOCBOX Belt Drive - 50/60 - degree preload (160-200lbs),525,,123 Nowhere St.,,,Winnfield,'71483,LA,US
+25,klm@gmail.com,686,18.04,63.45,UPS® Ground Saver,1,SHOCBOX Belt Drive - 50/60 - degree preload (160-200lbs),525,Tim McDonald,123 Nowhere St.,,,San Rafael,'94901,CA,US
+26,nop@gmail.com,161,9.81,12.48,UPS® Ground Saver,1,TRICK-STICK,161,,123 Nowhere St.,,,San Rafael,'94901,CA,US
+27,qrs@gmial.com,697.2,105.6,80.28,UPS Worldwide Expedited®,1,TRICK-STICK,163.97,Renato oliveira,123 Nowhere St.,,Unit 21 or 501,ARNCLIFFE,'2205,NSW,AU
+28,qrs@gmial.com,525,6.99,40.19,UPS Worldwide Expedited®,1,SHOCBOX Belt Drive - 60/70 - degree preload (180-220lbs),533.23,,123 Nowhere St.,,,ARNCLIFFE,'2205,NSW,AU
